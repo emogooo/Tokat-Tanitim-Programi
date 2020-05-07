@@ -3,13 +3,37 @@
         "isim": "Ali Paşa Hamamı",
          "tarih": "1572",
          "kisaaciklama": "Kaliteli çimmenin tek adresi",
-         "aciklama": "Ali Paşa Hamamı, Tokat’ın merkezinde olduğu için ulaşım açısından zorluğu yok. Aynı isimle Ali Paşa Camisi de hemen yanındadır. 1572 tarihli hamam kesme taş kullanılarak inşa edilmiş. Osmanlı hamam mimarisinin güzel bir örneğidir. Kadın ve erkek bölümü ayrı olup, birbirine bitişiktir. İki bölüm arasındaki tek fark erkek bölümünün sıcaklık kısmı haç planlıdır ve göbek taşının üzeri kubbe ile örtülmüştür."
+         "aciklama": "Ali Paşa Hamamı, Tokat’ın merkezinde olduğu için ulaşım açısından zorluğu yok. "
     },
     {
         "isim": "Mahperi Hatun Kervansarayı ",
         "tarih": "Bilinmiyor ",
         "kisaaciklama": "Eskiden deve varmış",
-        "aciklama" : "Selçuklu Sultanı Alâeddin Keykubat’ın annesi Mahperi Hatun adına yaptırdığı bu kervansaray, Tokat’ın Pazar ilçesinde yer alır. Özellikle yaz mevsiminde, turistlerin sıklıkla ziyaret ettiği gözde gezi noktalarından biri haline gelmiştir. "
+        "aciklama" : "Selçuklu Sultanı Alâeddin Keykubat’ın annesi Mahperi Hatun adına yapıldı. "
+    }, 
+   {
+        "isim": "Taşhan ",
+        "tarih": "1631 ",
+        "kisaaciklama": "Sırf tarih kokuyor diye çay 5 lira yapılmaz yahu.. ",
+        "aciklama" : "1631’de yaptırılan Taşhan, büyük bir Osmanlı eseridir. "
+    },
+   {
+        "isim": "Pervane Hamamı ",
+        "tarih": "1275 ",
+        "kisaaciklama": "Güzel bir hamam boş vakitlerinizde çimebilirsiniz.",
+        "aciklama" : " Pervane Hamamı 1275 yılından beri varlığını devam ettiriyor. "
+    }, 
+   {
+        "isim": "Ali Paşa Camii ",
+        "tarih": "1572",
+        "kisaaciklama": "Büyük bir camii ",
+        "aciklama" : "Şehir merkezinde konumlanan cami, 11. Selim döneminde yaptırılmış.  "
+    }, 
+   {
+        "isim": "Behzat Camii ",
+        "tarih": "1535 ",
+        "kisaaciklama": "Caddenin tam ortasına yapılmış, arkasında park ve saat kulesi var güzel bir yer.",
+        "aciklama" : "Behzat Çayı’nın yanında olduğu için adı da buradan gelmektedir. "
     }
 
 ]}
