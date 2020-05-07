@@ -1,16 +1,39 @@
 { "tokat" : [
     { 
-        "isim" :"Ballıca Mağarası",
-         "tarih":"Bol oksijen, Dağın tepesinden yaklaşık 300 metre aşağıya iniliyor",
-         "kisaaciklama":"sss", 
-         "aciklama":"sdasda"
+        "isim": "Ali Paşa Hamamı",
+         "tarih": "1572",
+         "kisaaciklama": "Kaliteli çimmenin tek adresi",
+         "aciklama": "Ali Paşa Hamamı, Tokat’ın merkezinde olduğu için ulaşım açısından zorluğu yok. Aynı isimle Ali Paşa Camisi de hemen yanındadır. 1572 tarihli hamam kesme taş kullanılarak inşa edilmiş. Osmanlı hamam mimarisinin güzel bir örneğidir. Kadın ve erkek bölümü ayrı olup, birbirine bitişiktir. İki bölüm arasındaki tek fark erkek bölümünün sıcaklık kısmı haç planlıdır ve göbek taşının üzeri kubbe ile örtülmüştür."
     },
     {
-        "isim":"Kaz Gölü",
-        "tarih":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
-        "kisaaciklama":"asdasd", 
-        "aciklama":"slsmslmsls"
-    } 
-
+        "isim": "Mahperi Hatun Kervansarayı ",
+        "tarih": "Bilinmiyor ",
+        "kisaaciklama": "Eskiden deve varmış",
+        "aciklama" : "Selçuklu Sultanı Alâeddin Keykubat’ın annesi Mahperi Hatun adına yaptırdığı bu kervansaray, Tokat’ın Pazar ilçesinde yer alır. Özellikle yaz mevsiminde, turistlerin sıklıkla ziyaret ettiği gözde gezi noktalarından biri haline gelmiştir. "
+    }, 
+   {
+        "isim": "Taşhan ",
+        "tarih": "1631 ",
+        "kisaaciklama": "Sırf tarih kokuyor diye çay 5 lira yapılmaz yahu.. ",
+        "aciklama" : "1631’de yaptırılan Taşhan, büyük bir Osmanlı eseridir. Dikdörtgen ve iki katlı olan hanın ortasında avlu bulunuyor. 112 odalı yapının nostaljik özelliği bozulmadan otele çevrilmesi yönünde projeler var. Günümüzde ise kafe ve alışveriş dükkanlarıyla çevrili durumda. "
+    },
+   {
+        "isim": "Pervane Hamamı ",
+        "tarih": "1275 ",
+        "kisaaciklama": "Güzel bir hamam boş vakitlerinizde çimebilirsiniz.",
+        "aciklama" : " Pervane Hamamı 1275 yılından beri varlığını devam ettiriyor. Selçuklu vezirlerinden Pervane Muineddin tarafından yaptırıldığı tahmin edilir. Hamam kendi içinde kadın ve erkek olarak ikiye ayrılıyor. 1951’de belediyenin yaptığı restorasyon neticesinde cazibesini kaybeden hamam yine de görülmeli diyoruz."
+    }, 
+   {
+        "isim": "Ali Paşa Camii ",
+        "tarih": "1572",
+        "kisaaciklama": "Büyük bir camii ",
+        "aciklama" : "Şehir merkezinde konumlanan cami, 11. Selim döneminde yaptırılmış. 1572’de inşası biten Ali Paşa Camii için hamam ve türbeden oluşan bir külliyedir diyebiliriz. Mimar Sinan ekolünde, Osmanlı mimarisine değinen caminin tek kubbesi ve tek minaresi vardır.  "
+    }, 
+   {
+        "isim": "Behzat Camii ",
+        "tarih": "1535 ",
+        "kisaaciklama": "Caddenin tam ortasına yapılmış, arkasında park ve saat kulesi var güzel bir yer.",
+        "aciklama" : "Behzat Çayı’nın yanında olduğu için adı da buradan gelmektedir. Behzat Camii, Kanuni Sultan Süleyman’ın isteği üzerine 1535’te inşa edilmiş. Kesme taştan yapılan minaresi en dikkat çekici noktalarından biridir. Günümüzde ibadetlere devam edilen camii, turistik gezilerin gözde durağı haline gelmiştir. "
+    }
 
 ]}
